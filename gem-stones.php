@@ -79,7 +79,7 @@
                         <div class="col-select">
                             <a href="/gem-stones/ruby">
                               <div class="gem-img">
-                                <img src="https://assets.askganesha.com/images/gemstone/ruby.jpg" alt="Ruby"/>
+                                <img src="./Arti-Asta img/pic/ruby.jpg" alt="Ruby"/>
                               </div>
                               <div class="gem-heading">
                                   <h5>Ruby - Planet Sun</h5>
@@ -92,7 +92,7 @@
                         <div class="col-select">
                           <a href="/gem-stones/pearl">
                             <div class="gem-img">
-                              <img src="https://assets.askganesha.com/images/gemstone/pearl.jpg" alt="Pearl"/>
+                              <img src="./Arti-Asta img/pic/pearl.jpg" alt="Pearl"/>
                             </div>
                             <div class="gem-heading">
                                 <h5>Pearl - Planet Moon</h5>
@@ -105,7 +105,7 @@
                         <div class="col-select">
                           <a href="/gem-stones/red-coral">
                             <div class="gem-img">
-                              <img src="https://assets.askganesha.com/images/gemstone/red-coral.jpg" alt="Red Coral"/>
+                              <img src="./Arti-Asta img/pic/red-coral.jpg" alt="Red Coral"/>
                             </div>
                             <div class="gem-heading">
                                 <h5>Red Coral - Planet Mars</h5>
@@ -118,7 +118,7 @@
                         <div class="col-select">
                           <a href="/gem-stones/emerald">
                             <div class="gem-img">
-                              <img src="https://assets.askganesha.com/images/gemstone/emerald.jpg" alt="Emerald"/>
+                              <img src="./Arti-Asta img/pic/emerald.jpg" alt="Emerald"/>
                             </div>
                             <div class="gem-heading">
                                 <h5>Emerald - Planet Mercury</h5>
@@ -135,7 +135,7 @@
                           <div class="col-select">
                             <a href="/gem-stones/yellow-sapphire">
                               <div class="gem-img">
-                                <img src="https://assets.askganesha.com/images/gemstone/yellow-sapphire.jpg" alt="Yellow Sapphire"/>
+                                <img src="./Arti-Asta img/pic/yellow-sapphire.jpg" alt="Yellow Sapphire"/>
                               </div>
                               <div class="gem-heading">
                                   <h5>Yellow Sapphire - Jupiter</h5>
@@ -148,7 +148,7 @@
                           <div class="col-select">
                             <a href="/gem-stones/diamond">
                               <div class="gem-img">
-                                <img src="https://assets.askganesha.com/images/gemstone/diamond.jpg" alt="Diamond"/>
+                                <img src="./Arti-Asta img/pic/diamond.jpg" alt="Diamond"/>
                               </div>
                               <div class="gem-heading">
                                   <h5>Diamond - Planet Venus</h5>
@@ -163,7 +163,7 @@
 
                             <a href="/gem-stones/blue-sapphire">
                               <div class="gem-img">
-                                <img src="https://assets.askganesha.com/images/gemstone/blue-sapphire.jpg" alt="Blue Sapphire"/>
+                                <img src="./Arti-Asta img/pic/blue-sapphire.jpg" alt="Blue Sapphire"/>
                               </div>
                               <div class="gem-heading">
                                   <h5>Blue Sapphire - Saturn</h5>
@@ -177,7 +177,7 @@
                             <div class="col-select">
                               <a href="/gem-stones/brown-hessonite">
                                 <div class="gem-img">
-                                  <img src="https://assets.askganesha.com/images/gemstone/gomedha.jpg" alt="Gomedha"/>
+                                  <img src="./Arti-Asta img/pic/gomedha.jpg" alt="Gomedha"/>
                                 </div>
                                 <div class="gem-heading">
                                     <h5>Brown Hessonite</h5>
@@ -195,7 +195,7 @@
 
                                 <a href="/gem-stones/cats-eye">
                                   <div class="gem-img">
-                                    <img src="https://assets.askganesha.com/images/gemstone/cats-eye.jpg" alt="Cats Eye"/>
+                                    <img src="./Arti-Asta img/pic/cats-eye.jpg" alt="Cats Eye"/>
                                   </div>
                                   <div class="gem-heading">
                                       <h5>Cats Eye - Ketu</h5>
@@ -210,7 +210,7 @@
 
                                 <a href="/gem-stones/amethyst">
                                   <div class="gem-img">
-                                    <img src="https://assets.askganesha.com/images/gemstone/amethyst.jpg" alt="Amethyst"/>
+                                    <img src="./Arti-Asta img/pic/amethyst.jpg" alt="Amethyst"/>
                                   </div>
                                   <div class="gem-heading">
                                       <h5>Amethyst for good career</h5>
@@ -225,7 +225,7 @@
 
                               <a href="/gem-stones/rose-quartz">
                                 <div class="gem-img">
-                                  <img src="https://assets.askganesha.com/images/gemstone/rose-quartz.jpg" alt="Rose Quartz"/>
+                                  <img src="./Arti-Asta img/pic/rose-quartz.jpg" alt="Rose Quartz"/>
                                 </div>
                                 <div class="gem-heading">
                                     <h5>Rose Quartz for relationships</h5>
@@ -240,7 +240,7 @@
 
                               <a href="/gem-stones/topaz">
                                 <div class="gem-img">
-                                  <img src="https://assets.askganesha.com/images/gemstone/yellow-topaz.jpg" alt="Yellow Topaz"/>
+                                  <img src="./Arti-Asta img/pic/yellow-topaz.jpg" alt="Yellow Topaz"/>
                                 </div>
                                 <div class="gem-heading">
                                     <h5>Topaz for Prosperity</h5>
@@ -279,7 +279,7 @@
 				</div>
 
 				<p>In the report you also get to know the procedure of how the stone is to be worn, including the right weight, the right metal and the right day on which it is to be worn. Also the procedure of how to energize would also be given.</p>
-				<p><a href="/report/gem-consultancy-report">Get a Gem Consultancy Report</a></p>
+				<!-- <p><a href="/report/gem-consultancy-report">Get a Gem Consultancy Report</a></p> -->
 
 			</div>
 
